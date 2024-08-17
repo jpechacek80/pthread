@@ -1,0 +1,10 @@
+*.swp
+*.o
+*.old
+script
+bin/
+tags
+Debug/
+Release/
+.settings/
+credentials
